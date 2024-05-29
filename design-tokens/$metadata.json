@@ -1,0 +1,19 @@
+{
+  "tokenSetOrder": [
+    "Base/Core",
+    "Base/Semantic",
+    "Base/Fluid",
+    "Brand/Digdir",
+    "Brand/Tilsynet",
+    "Brand/Altinn",
+    "Brand/Brreg",
+    "Viewport/@320",
+    "Viewport/@375",
+    "Viewport/@576",
+    "Viewport/@768",
+    "Viewport/@992",
+    "Viewport/@1200",
+    "Viewport/@1440",
+    "Figma/components"
+  ]
+}
