@@ -4,7 +4,7 @@
       "type": "fontFamilies",
       "value": "Inter"
     },
-    "UK": {
+    "uk": {
       "value": "Source Sans 3",
       "type": "fontFamilies",
       "description": "Uppsala kommuns font family"
