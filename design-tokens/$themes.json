@@ -8,9 +8,7 @@
       "primitives/colors/light/theme4": "enabled",
       "primitives/colors/light/theme3": "enabled",
       "primitives/colors/light/theme2": "enabled",
-      "primitives/colors/dark/theme-uk": "disabled",
-      "primitives/colors/light/theme-uk": "enabled",
-      "themes/theme-uk": "disabled"
+      "primitives/colors/light/theme-uk": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
     "$figmaModeId": "34811:0",
@@ -417,9 +415,7 @@
       "primitives/colors/dark/theme4": "enabled",
       "primitives/colors/dark/theme3": "enabled",
       "primitives/colors/dark/theme2": "enabled",
-      "primitives/colors/dark/theme-uk": "enabled",
-      "primitives/colors/light/theme-uk": "disabled",
-      "themes/theme-uk": "disabled"
+      "primitives/colors/dark/theme-uk": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
     "$figmaModeId": "34811:1",
@@ -822,8 +818,6 @@
     "name": "digdir",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "primitives/colors/dark/theme-uk": "disabled",
-      "primitives/colors/light/theme-uk": "disabled",
       "themes/theme-uk": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5713",
@@ -912,10 +906,7 @@
     "name": "altinn",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/theme2": "enabled",
-      "primitives/colors/dark/theme-uk": "disabled",
-      "primitives/colors/light/theme-uk": "disabled",
-      "themes/theme-uk": "disabled"
+      "themes/theme2": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5713",
     "$figmaModeId": "34811:3",
@@ -1006,10 +997,7 @@
       "semantic/style": "enabled",
       "semantic/color": "enabled",
       "primitives/globals": "source",
-      "primitives/typography/default": "source",
-      "primitives/colors/dark/theme-uk": "disabled",
-      "primitives/colors/light/theme-uk": "disabled",
-      "themes/theme-uk": "disabled"
+      "primitives/typography/default": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5976",
     "$figmaModeId": "34811:5",
@@ -1208,10 +1196,7 @@
     "name": "uutilsynet",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/theme3": "enabled",
-      "primitives/colors/dark/theme-uk": "disabled",
-      "primitives/colors/light/theme-uk": "disabled",
-      "themes/theme-uk": "disabled"
+      "themes/theme3": "enabled"
     },
     "group": "Theme",
     "$figmaCollectionId": "VariableCollectionId:34811:5713",
@@ -1299,10 +1284,7 @@
     "name": "portal",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/theme4": "enabled",
-      "primitives/colors/dark/theme-uk": "disabled",
-      "primitives/colors/light/theme-uk": "disabled",
-      "themes/theme-uk": "disabled"
+      "themes/theme4": "enabled"
     },
     "group": "Theme",
     "$figmaCollectionId": "VariableCollectionId:34811:5713",
@@ -1384,5 +1366,14 @@
       "color.brand3.contrast-1": "76606a7189862192028a3a701f043013d99a0a0f",
       "color.brand3.contrast-2": "058ef37f9cf4263711648bfc34738b75b32dfd8b"
     }
+  },
+  {
+    "id": "d4bb051a6a9d65814c608ba836a8710c03e5e9ed",
+    "name": "uppsala",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "themes/theme-uk": "enabled"
+    },
+    "group": "Theme"
   }
 ]
