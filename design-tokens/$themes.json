@@ -5,7 +5,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "primitives/colors/light/global": "enabled",
-      "primitives/colors/light/theme4": "enabled",
       "primitives/colors/light/theme3": "enabled",
       "primitives/colors/light/theme2": "enabled",
       "primitives/colors/light/theme-uk": "enabled"
@@ -412,7 +411,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "primitives/colors/dark/global": "enabled",
-      "primitives/colors/dark/theme4": "enabled",
       "primitives/colors/dark/theme3": "enabled",
       "primitives/colors/dark/theme2": "enabled",
       "primitives/colors/dark/theme-uk": "enabled"
@@ -1283,9 +1281,7 @@
     "id": "16fa9e4cda965fe201604c1e6152ffd08f455733",
     "name": "portal",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "themes/theme4": "enabled"
-    },
+    "selectedTokenSets": {},
     "group": "Theme",
     "$figmaCollectionId": "VariableCollectionId:34811:5713",
     "$figmaModeId": "34978:2",
