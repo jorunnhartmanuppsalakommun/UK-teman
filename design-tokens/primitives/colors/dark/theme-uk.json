@@ -65,55 +65,55 @@
     "neutral": {
       "1": {
         "type": "color",
-        "value": "#131c27"
+        "value": "#131c2a"
       },
       "2": {
         "type": "color",
-        "value": "#192433"
+        "value": "#192435"
       },
       "3": {
         "type": "color",
-        "value": "#243142"
+        "value": "#233147"
       },
       "4": {
         "type": "color",
-        "value": "#333e4e"
+        "value": "#313e54"
       },
       "5": {
         "type": "color",
-        "value": "#424d5b"
+        "value": "#404c60"
       },
       "6": {
         "type": "color",
-        "value": "#495361"
+        "value": "#475366"
       },
       "7": {
         "type": "color",
-        "value": "#67707c"
+        "value": "#66707f"
       },
       "8": {
         "type": "color",
-        "value": "#bbbfc4"
+        "value": "#bbbfc6"
       },
       "9": {
         "type": "color",
-        "value": "#1E2B3C"
+        "value": "#202e45"
       },
       "10": {
         "type": "color",
-        "value": "#303c4b"
+        "value": "#344055"
       },
       "11": {
         "type": "color",
-        "value": "#444e5d"
+        "value": "#475366"
       },
       "12": {
         "type": "color",
-        "value": "#989ea5"
+        "value": "#989ea9"
       },
       "13": {
         "type": "color",
-        "value": "#dddfe1"
+        "value": "#dee0e3"
       },
       "contrast-1": {
         "type": "color",
