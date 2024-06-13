@@ -2,7 +2,7 @@
   "font-family": {
     "main": {
       "type": "fontFamilies",
-      "value": "Inter"
+      "value": "Source Sans 3"
     },
     "uk": {
       "type": "fontFamilies",
