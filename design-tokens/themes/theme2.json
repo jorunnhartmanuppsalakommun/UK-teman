@@ -310,5 +310,25 @@
         "value": "{theme2.brand3.contrast-2}"
       }
     }
+  },
+  "font": {
+    "family": {
+      "type": "fontFamilies",
+      "value": "{theme2.main}"
+    }
+  },
+  "font-weight": {
+    "medium": {
+      "type": "fontWeights",
+      "value": "{theme2.bold}"
+    },
+    "semibold": {
+      "type": "fontWeights",
+      "value": "{theme2.extra-bold}"
+    },
+    "regular": {
+      "type": "fontWeights",
+      "value": "{theme2.regular}"
+    }
   }
 }
