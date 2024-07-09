@@ -2,7 +2,7 @@
   "theme": {
     "main": {
       "type": "fontFamilies",
-      "value": "Inter"
+      "value": "Source Sans 3"
     },
     "bold": {
       "$extensions": {
