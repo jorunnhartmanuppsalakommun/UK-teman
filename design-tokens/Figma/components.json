@@ -2,21 +2,21 @@
   "switch": {
     "circle": {
       "small": {
-        "type": "sizing",
-        "value": "{sizing.5} - {switch.border}"
+        "value": "{sizing.5} - {switch.border}",
+        "type": "sizing"
       },
       "medium": {
-        "type": "sizing",
-        "value": "{sizing.6} - {switch.border}"
+        "value": "{sizing.6} - {switch.border}",
+        "type": "sizing"
       },
       "large": {
-        "type": "sizing",
-        "value": "{sizing.7} - {switch.border}"
+        "value": "{sizing.7} - {switch.border}",
+        "type": "sizing"
       }
     },
     "border": {
-      "type": "sizing",
-      "value": "4"
+      "value": "4",
+      "type": "sizing"
     }
   }
 }

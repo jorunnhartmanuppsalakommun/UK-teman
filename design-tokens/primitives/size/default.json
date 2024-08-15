@@ -6,8 +6,8 @@
           "modify": {}
         }
       },
-      "type": "lineHeights",
-      "value": "130%"
+      "value": "130%",
+      "type": "lineHeights"
     },
     "md": {
       "$extensions": {
@@ -15,8 +15,8 @@
           "modify": {}
         }
       },
-      "type": "lineHeights",
-      "value": "150%"
+      "value": "150%",
+      "type": "lineHeights"
     },
     "lg": {
       "$extensions": {
@@ -24,8 +24,8 @@
           "modify": {}
         }
       },
-      "type": "lineHeights",
-      "value": "170%"
+      "value": "170%",
+      "type": "lineHeights"
     }
   },
   "font-size": {
@@ -35,8 +35,8 @@
           "modify": {}
         }
       },
-      "type": "fontSizes",
-      "value": "12"
+      "value": "12",
+      "type": "fontSizes"
     },
     "2": {
       "$extensions": {
@@ -44,8 +44,8 @@
           "modify": {}
         }
       },
-      "type": "fontSizes",
-      "value": "13"
+      "value": "13",
+      "type": "fontSizes"
     },
     "3": {
       "$extensions": {
@@ -53,8 +53,8 @@
           "modify": {}
         }
       },
-      "type": "fontSizes",
-      "value": "14"
+      "value": "14",
+      "type": "fontSizes"
     },
     "4": {
       "$extensions": {
@@ -62,8 +62,8 @@
           "modify": {}
         }
       },
-      "type": "fontSizes",
-      "value": "16"
+      "value": "16",
+      "type": "fontSizes"
     },
     "5": {
       "$extensions": {
@@ -71,8 +71,8 @@
           "modify": {}
         }
       },
-      "type": "fontSizes",
-      "value": "18"
+      "value": "18",
+      "type": "fontSizes"
     },
     "6": {
       "$extensions": {
@@ -80,8 +80,8 @@
           "modify": {}
         }
       },
-      "type": "fontSizes",
-      "value": "21"
+      "value": "21",
+      "type": "fontSizes"
     },
     "7": {
       "$extensions": {
@@ -89,8 +89,8 @@
           "modify": {}
         }
       },
-      "type": "fontSizes",
-      "value": "24"
+      "value": "24",
+      "type": "fontSizes"
     },
     "8": {
       "$extensions": {
@@ -98,8 +98,8 @@
           "modify": {}
         }
       },
-      "type": "fontSizes",
-      "value": "30"
+      "value": "30",
+      "type": "fontSizes"
     },
     "9": {
       "$extensions": {
@@ -107,8 +107,8 @@
           "modify": {}
         }
       },
-      "type": "fontSizes",
-      "value": "36"
+      "value": "36",
+      "type": "fontSizes"
     },
     "10": {
       "$extensions": {
@@ -116,8 +116,8 @@
           "modify": {}
         }
       },
-      "type": "fontSizes",
-      "value": "48"
+      "value": "48",
+      "type": "fontSizes"
     },
     "11": {
       "$extensions": {
@@ -125,42 +125,42 @@
           "modify": {}
         }
       },
-      "type": "fontSizes",
-      "value": "60"
+      "value": "60",
+      "type": "fontSizes"
     }
   },
   "letter-spacing": {
     "1": {
-      "type": "letterSpacing",
-      "value": "-1%"
+      "value": "-1%",
+      "type": "letterSpacing"
     },
     "2": {
-      "type": "letterSpacing",
-      "value": "-0.5%"
+      "value": "-0.5%",
+      "type": "letterSpacing"
     },
     "3": {
-      "type": "letterSpacing",
-      "value": "-0.25%"
+      "value": "-0.25%",
+      "type": "letterSpacing"
     },
     "4": {
-      "type": "letterSpacing",
-      "value": "-0.15%"
+      "value": "-0.15%",
+      "type": "letterSpacing"
     },
     "5": {
-      "type": "letterSpacing",
-      "value": "0%"
+      "value": "0%",
+      "type": "letterSpacing"
     },
     "6": {
-      "type": "letterSpacing",
-      "value": "0.15%"
+      "value": "0.15%",
+      "type": "letterSpacing"
     },
     "7": {
-      "type": "letterSpacing",
-      "value": "0.25%"
+      "value": "0.25%",
+      "type": "letterSpacing"
     },
     "8": {
-      "type": "letterSpacing",
-      "value": "0.5%"
+      "value": "0.5%",
+      "type": "letterSpacing"
     },
     "9": {
       "$extensions": {
@@ -168,8 +168,8 @@
           "modify": {}
         }
       },
-      "type": "letterSpacing",
-      "value": "1.5%"
+      "value": "1.5%",
+      "type": "letterSpacing"
     }
   }
 }

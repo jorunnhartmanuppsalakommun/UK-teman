@@ -1,334 +1,314 @@
 {
-  "color": {
+  "theme4": {
     "accent": {
       "1": {
-        "value": "{theme3.accent.1}",
+        "value": "#fefefe",
         "type": "color"
       },
       "2": {
-        "value": "{theme3.accent.2}",
+        "value": "#f5f2f8",
         "type": "color"
       },
       "3": {
-        "value": "{theme3.accent.3}",
+        "value": "#e8e0ee",
         "type": "color"
       },
       "4": {
-        "value": "{theme3.accent.4}",
+        "value": "#d9cce3",
         "type": "color"
       },
       "5": {
-        "value": "{theme3.accent.5}",
+        "value": "#ccbad9",
         "type": "color"
       },
       "6": {
-        "value": "{theme3.accent.6}",
+        "value": "#c7b4d6",
         "type": "color"
       },
       "7": {
-        "value": "{theme3.accent.7}",
+        "value": "#9773b3",
         "type": "color"
       },
       "8": {
-        "value": "{theme3.accent.8}",
+        "value": "#683591",
         "type": "color"
       },
       "9": {
-        "value": "{theme3.accent.9}",
+        "value": "#4d107d",
         "type": "color"
       },
       "10": {
-        "value": "{theme3.accent.10}",
+        "value": "#612c8c",
         "type": "color"
       },
       "11": {
-        "value": "{theme3.accent.11}",
+        "value": "#734499",
         "type": "color"
       },
       "12": {
-        "value": "{theme3.accent.12}",
+        "value": "#7c4fa0",
         "type": "color"
       },
       "13": {
-        "value": "{theme3.accent.13}",
+        "value": "#420e6a",
         "type": "color"
       },
       "contrast-1": {
-        "value": "{theme3.accent.contrast-1}",
+        "value": "#ffffff",
         "type": "color"
       },
       "contrast-2": {
-        "value": "{theme3.accent.contrast-2}",
+        "value": "#d5c6e0",
         "type": "color"
       }
     },
     "neutral": {
       "1": {
-        "value": "{theme3.neutral.1}",
+        "value": "#fefefe",
         "type": "color"
       },
       "2": {
-        "value": "{theme3.neutral.2}",
+        "value": "#f3f4f5",
         "type": "color"
       },
       "3": {
-        "value": "{theme3.neutral.3}",
+        "value": "#e1e3e5",
         "type": "color"
       },
       "4": {
-        "value": "{theme3.neutral.4}",
+        "value": "#ced1d4",
         "type": "color"
       },
       "5": {
-        "value": "{theme3.neutral.5}",
+        "value": "#bdc1c6",
         "type": "color"
       },
       "6": {
-        "value": "{theme3.neutral.6}",
+        "value": "#b8bcc1",
         "type": "color"
       },
       "7": {
-        "value": "{theme3.neutral.7}",
+        "value": "#7a818c",
         "type": "color"
       },
       "8": {
-        "value": "{theme3.neutral.8}",
+        "value": "#444e5d",
         "type": "color"
       },
       "9": {
-        "value": "{theme3.neutral.9}",
+        "value": "#1E2B3C",
         "type": "color"
       },
       "10": {
-        "value": "{theme3.neutral.10}",
+        "value": "#303c4b",
         "type": "color"
       },
       "11": {
-        "value": "{theme3.neutral.11}",
+        "value": "#444e5d",
         "type": "color"
       },
       "12": {
-        "value": "{theme3.neutral.12}",
+        "value": "#5b6471",
         "type": "color"
       },
       "13": {
-        "value": "{theme3.neutral.13}",
+        "value": "#202c3d",
         "type": "color"
       },
       "contrast-1": {
-        "value": "{theme3.neutral.contrast-1}",
+        "value": "#ffffff",
         "type": "color"
       },
       "contrast-2": {
-        "value": "{theme3.neutral.contrast-2}",
+        "value": "#bbbfc4",
         "type": "color"
       }
     },
     "brand1": {
       "1": {
-        "value": "{theme3.brand1.1}",
+        "value": "#fefdff",
         "type": "color"
       },
       "2": {
-        "value": "{theme3.brand1.2}",
+        "value": "#f7f1fc",
         "type": "color"
       },
       "3": {
-        "value": "{theme3.brand1.3}",
+        "value": "#ecddf8",
         "type": "color"
       },
       "4": {
-        "value": "{theme3.brand1.4}",
+        "value": "#e0c8f3",
         "type": "color"
       },
       "5": {
-        "value": "{theme3.brand1.5}",
+        "value": "#d5b5ef",
         "type": "color"
       },
       "6": {
-        "value": "{theme3.brand1.6}",
+        "value": "#d1adee",
         "type": "color"
       },
       "7": {
-        "value": "{theme3.brand1.7}",
+        "value": "#a661de",
         "type": "color"
       },
       "8": {
-        "value": "{theme3.brand1.8}",
+        "value": "#66388b",
         "type": "color"
       },
       "9": {
-        "value": "{theme3.brand1.9}",
+        "value": "#a259dc",
         "type": "color"
       },
       "10": {
-        "value": "{theme3.brand1.10}",
+        "value": "#884bb9",
         "type": "color"
       },
       "11": {
-        "value": "{theme3.brand1.11}",
+        "value": "#703d97",
         "type": "color"
       },
       "12": {
-        "value": "{theme3.brand1.12}",
+        "value": "#8248b1",
         "type": "color"
       },
       "13": {
-        "value": "{theme3.brand1.13}",
+        "value": "#3a204f",
         "type": "color"
       },
       "contrast-1": {
-        "value": "{theme3.brand1.contrast-1}",
+        "value": "#000000",
         "type": "color"
       },
       "contrast-2": {
-        "value": "{theme3.brand1.contrast-2}",
+        "value": "#0a060d",
         "type": "color"
       }
     },
     "brand2": {
       "1": {
-        "value": "{theme3.brand2.1}",
+        "value": "#fffeff",
         "type": "color"
       },
       "2": {
-        "value": "{theme3.brand2.2}",
+        "value": "#fbf0fc",
         "type": "color"
       },
       "3": {
-        "value": "{theme3.brand2.3}",
+        "value": "#f6d9f8",
         "type": "color"
       },
       "4": {
-        "value": "{theme3.brand2.4}",
+        "value": "#f1c2f3",
         "type": "color"
       },
       "5": {
-        "value": "{theme3.brand2.5}",
+        "value": "#ecabef",
         "type": "color"
       },
       "6": {
-        "value": "{theme3.brand2.6}",
+        "value": "#eaa3ed",
         "type": "color"
       },
       "7": {
-        "value": "{theme3.brand2.7}",
+        "value": "#b75fbb",
         "type": "color"
       },
       "8": {
-        "value": "{theme3.brand2.8}",
+        "value": "#6f3972",
         "type": "color"
       },
       "9": {
-        "value": "{theme3.brand2.9}",
+        "value": "#df73e4",
         "type": "color"
       },
       "10": {
-        "value": "{theme3.brand2.10}",
+        "value": "#c364c7",
         "type": "color"
       },
       "11": {
-        "value": "{theme3.brand2.11}",
+        "value": "#a656aa",
         "type": "color"
       },
       "12": {
-        "value": "{theme3.brand2.12}",
+        "value": "#8e4991",
         "type": "color"
       },
       "13": {
-        "value": "{theme3.brand2.13}",
+        "value": "#3f2141",
         "type": "color"
       },
       "contrast-1": {
-        "value": "{theme3.brand2.contrast-1}",
+        "value": "#000000",
         "type": "color"
       },
       "contrast-2": {
-        "value": "{theme3.brand2.contrast-2}",
+        "value": "#190d1a",
         "type": "color"
       }
     },
     "brand3": {
       "1": {
-        "value": "{theme3.brand3.1}",
+        "value": "#fffefe",
         "type": "color"
       },
       "2": {
-        "value": "{theme3.brand3.2}",
+        "value": "#fdeff8",
         "type": "color"
       },
       "3": {
-        "value": "{theme3.brand3.3}",
+        "value": "#f9daef",
         "type": "color"
       },
       "4": {
-        "value": "{theme3.brand3.4}",
+        "value": "#f6c3e5",
         "type": "color"
       },
       "5": {
-        "value": "{theme3.brand3.5}",
+        "value": "#f2abdb",
         "type": "color"
       },
       "6": {
-        "value": "{theme3.brand3.6}",
+        "value": "#f1a3d7",
         "type": "color"
       },
       "7": {
-        "value": "{theme3.brand3.7}",
+        "value": "#c55aa3",
         "type": "color"
       },
       "8": {
-        "value": "{theme3.brand3.8}",
+        "value": "#773762",
         "type": "color"
       },
       "9": {
-        "value": "{theme3.brand3.9}",
+        "value": "#e86abf",
         "type": "color"
       },
       "10": {
-        "value": "{theme3.brand3.10}",
+        "value": "#c95ca6",
         "type": "color"
       },
       "11": {
-        "value": "{theme3.brand3.11}",
+        "value": "#ab4e8d",
         "type": "color"
       },
       "12": {
-        "value": "{theme3.brand3.12}",
+        "value": "#98467d",
         "type": "color"
       },
       "13": {
-        "value": "{theme3.brand3.13}",
+        "value": "#451f38",
         "type": "color"
       },
       "contrast-1": {
-        "value": "{theme3.brand3.contrast-1}",
+        "value": "#000000",
         "type": "color"
       },
       "contrast-2": {
-        "value": "{theme3.brand3.contrast-2}",
+        "value": "#11080e",
         "type": "color"
       }
-    }
-  },
-  "font": {
-    "family": {
-      "value": "{theme3.main}",
-      "type": "fontFamilies"
-    }
-  },
-  "font-weight": {
-    "medium": {
-      "value": "{theme3.bold}",
-      "type": "fontWeights"
-    },
-    "semibold": {
-      "value": "{theme3.extra-bold}",
-      "type": "fontWeights"
-    },
-    "regular": {
-      "value": "{theme3.regular}",
-      "type": "fontWeights"
     }
   }
 }
