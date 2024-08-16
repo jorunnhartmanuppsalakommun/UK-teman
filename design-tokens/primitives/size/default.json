@@ -1,130 +1,60 @@
 {
   "line-height": {
     "sm": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "130%",
       "type": "lineHeights"
     },
     "md": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "150%",
       "type": "lineHeights"
     },
     "lg": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "170%",
       "type": "lineHeights"
     }
   },
   "font-size": {
     "1": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "12",
       "type": "fontSizes"
     },
     "2": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "13",
       "type": "fontSizes"
     },
     "3": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "14",
       "type": "fontSizes"
     },
     "4": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "16",
       "type": "fontSizes"
     },
     "5": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "18",
       "type": "fontSizes"
     },
     "6": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "21",
       "type": "fontSizes"
     },
     "7": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "24",
       "type": "fontSizes"
     },
     "8": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "30",
       "type": "fontSizes"
     },
     "9": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "36",
       "type": "fontSizes"
     },
     "10": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "48",
       "type": "fontSizes"
     },
     "11": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "60",
       "type": "fontSizes"
     }
@@ -163,11 +93,6 @@
       "type": "letterSpacing"
     },
     "9": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
       "value": "1.5%",
       "type": "letterSpacing"
     }

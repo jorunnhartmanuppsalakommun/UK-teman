@@ -4,21 +4,11 @@
       "value": "Helvetica Neue",
       "type": "fontFamilies"
     },
-    "bold": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
+    "medium": {
       "value": "Medium",
       "type": "fontWeights"
     },
-    "extra-bold": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
+    "bold": {
       "value": "Bold",
       "type": "fontWeights"
     },

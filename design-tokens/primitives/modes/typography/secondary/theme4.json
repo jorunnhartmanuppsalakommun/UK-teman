@@ -4,21 +4,11 @@
       "value": "IBM Plex Mono",
       "type": "fontFamilies"
     },
-    "bold": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
+    "medium": {
       "value": "Regular",
       "type": "fontWeights"
     },
-    "extra-bold": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
+    "bold": {
       "value": "Bold",
       "type": "fontWeights"
     },

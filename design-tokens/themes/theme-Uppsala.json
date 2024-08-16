@@ -313,21 +313,21 @@
   },
   "font": {
     "family": {
-      "value": "{theme.main}",
+      "value": "{theme-Uppsala.main}",
       "type": "fontFamilies"
     }
   },
   "font-weight": {
     "medium": {
-      "value": "{theme.bold}",
+      "value": "{theme-Uppsala.medium}",
       "type": "fontWeights"
     },
-    "semibold": {
-      "value": "{theme.extra-bold}",
+    "bold": {
+      "value": "{theme-Uppsala.bold}",
       "type": "fontWeights"
     },
     "regular": {
-      "value": "{theme.regular}",
+      "value": "{theme-Uppsala.regular}",
       "type": "fontWeights"
     }
   }

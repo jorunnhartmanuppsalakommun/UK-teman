@@ -322,8 +322,8 @@
       "value": "{theme4.bold}",
       "type": "fontWeights"
     },
-    "semibold": {
-      "value": "{theme4.extra-bold}",
+    "bold": {
+      "value": "{theme4.bold}",
       "type": "fontWeights"
     },
     "regular": {

@@ -1,11 +1,12 @@
 {
-  "theme2": {
+  "theme-Uppsala": {
     "main": {
-      "value": "IBM Plex Mono",
-      "type": "fontFamilies"
+      "value": "Source Sans 3",
+      "type": "fontFamilies",
+      "description": "UA font famlily"
     },
     "medium": {
-      "value": "Regular",
+      "value": "Medium",
       "type": "fontWeights"
     },
     "bold": {

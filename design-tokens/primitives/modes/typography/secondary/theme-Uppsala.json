@@ -1,24 +1,14 @@
 {
-  "theme": {
+  "theme-Uppsala": {
     "main": {
       "value": "IBM Plex Mono",
       "type": "fontFamilies"
     },
-    "bold": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
+    "medium": {
       "value": "Medium",
       "type": "fontWeights"
     },
-    "extra-bold": {
-      "$extensions": {
-        "studio.tokens": {
-          "modify": {}
-        }
-      },
+    "bold": {
       "value": "SemiBold",
       "type": "fontWeights"
     },
