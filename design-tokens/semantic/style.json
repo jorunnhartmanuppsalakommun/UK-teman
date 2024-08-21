@@ -1,5 +1,29 @@
 {
   "typography": {
+    "display": {
+      "lg": {
+        "value": {
+          "fontFamily": "{font.family}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.sm}",
+          "fontSize": "{font-size.14}",
+          "letterSpacing": "{letter-spacing.1}"
+        },
+        "type": "typography",
+        "description": "ua display lg"
+      },
+      "md": {
+        "value": {
+          "fontFamily": "{font.family}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{line-height.sm}",
+          "fontSize": "{font-size.11}",
+          "letterSpacing": "{letter-spacing.1}"
+        },
+        "type": "typography",
+        "description": "ua display md"
+      }
+    },
     "heading": {
       "2xl": {
         "value": {

@@ -57,6 +57,11 @@
     "11": {
       "value": "60",
       "type": "fontSizes"
+    },
+    "14": {
+      "value": "80",
+      "type": "fontSizes",
+      "description": "added for UA Display lg"
     }
   },
   "letter-spacing": {
