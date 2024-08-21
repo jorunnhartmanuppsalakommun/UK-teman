@@ -6,7 +6,7 @@
       "description": "UA font famlily"
     },
     "medium": {
-      "value": "Medium",
+      "value": "SemiBold",
       "type": "fontWeights"
     },
     "bold": {

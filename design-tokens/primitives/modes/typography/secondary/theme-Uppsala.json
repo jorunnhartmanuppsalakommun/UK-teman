@@ -5,7 +5,7 @@
       "type": "fontFamilies"
     },
     "medium": {
-      "value": "Medium",
+      "value": "SemiBold",
       "type": "fontWeights"
     },
     "bold": {
