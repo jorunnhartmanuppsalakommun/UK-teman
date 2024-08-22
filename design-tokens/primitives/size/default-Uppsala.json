@@ -64,41 +64,41 @@
       "description": "added for UA Display lg"
     }
   },
-  "letter-spacing": {
+  "letter-spacing-uppsala": {
     "1": {
-      "value": "-1%",
+      "value": "-2.5%",
       "type": "letterSpacing"
     },
     "2": {
-      "value": "-0.5%",
+      "value": "-2%",
       "type": "letterSpacing"
     },
     "3": {
-      "value": "-0.25%",
+      "value": "-1.5%",
       "type": "letterSpacing"
     },
     "4": {
-      "value": "-0.15%",
+      "value": "-1%",
       "type": "letterSpacing"
     },
     "5": {
-      "value": "0%",
+      "value": "-0.9%",
       "type": "letterSpacing"
     },
     "6": {
-      "value": "0.15%",
+      "value": "-0.5%",
       "type": "letterSpacing"
     },
     "7": {
-      "value": "0.25%",
+      "value": "0%",
       "type": "letterSpacing"
     },
     "8": {
-      "value": "0.5%",
+      "value": "0.6%",
       "type": "letterSpacing"
     },
     "9": {
-      "value": "1.5%",
+      "value": "1%",
       "type": "letterSpacing"
     }
   }

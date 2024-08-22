@@ -4,7 +4,8 @@
     "name": "default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "primitives/size/default": "enabled"
+      "primitives/size/default": "enabled",
+      "primitives/size/default-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20757",
     "$figmaModeId": "36248:0",
@@ -29,7 +30,8 @@
     "name": "compact",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "primitives/size/compact": "enabled"
+      "primitives/size/compact": "enabled",
+      "primitives/size/default-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20757",
     "$figmaModeId": "36248:1",
@@ -374,7 +376,8 @@
       "primitives/modes/colors/light/theme2": "enabled",
       "primitives/modes/colors/light/theme3": "enabled",
       "primitives/modes/colors/light/theme4": "enabled",
-      "primitives/modes/colors/light/theme-Uppsala": "enabled"
+      "primitives/modes/colors/light/theme-Uppsala": "enabled",
+      "primitives/size/default-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
     "$figmaModeId": "34811:0",
@@ -781,7 +784,8 @@
       "primitives/modes/colors/dark/theme2": "enabled",
       "primitives/modes/colors/dark/theme3": "enabled",
       "primitives/modes/colors/dark/theme4": "enabled",
-      "primitives/modes/colors/dark/theme-Uppsala": "enabled"
+      "primitives/modes/colors/dark/theme-Uppsala": "enabled",
+      "primitives/size/default-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
     "$figmaModeId": "34811:1",
@@ -1187,7 +1191,8 @@
       "primitives/modes/typography/primary/theme2": "enabled",
       "primitives/modes/typography/primary/theme3": "enabled",
       "primitives/modes/typography/primary/theme4": "enabled",
-      "primitives/modes/typography/primary/theme-Uppsala": "enabled"
+      "primitives/modes/typography/primary/theme-Uppsala": "enabled",
+      "primitives/size/default-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20769",
     "$figmaModeId": "36248:2",
@@ -1219,7 +1224,8 @@
       "primitives/modes/typography/secondary/theme2": "enabled",
       "primitives/modes/typography/secondary/theme3": "enabled",
       "primitives/modes/typography/secondary/theme4": "enabled",
-      "primitives/modes/typography/secondary/theme-Uppsala": "enabled"
+      "primitives/modes/typography/secondary/theme-Uppsala": "enabled",
+      "primitives/size/default-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20769",
     "$figmaModeId": "36248:3",
@@ -1248,7 +1254,8 @@
     "name": "Uppsala",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/theme-Uppsala": "enabled"
+      "themes/theme-Uppsala": "enabled",
+      "primitives/size/default-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36329:62335",
     "$figmaModeId": "36329:4",
@@ -1340,7 +1347,8 @@
     "name": "altinn",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/theme2": "enabled"
+      "themes/theme2": "enabled",
+      "primitives/size/default-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36329:62335",
     "$figmaModeId": "36329:5",
@@ -1432,7 +1440,8 @@
     "name": "uutilsynet",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/theme3": "enabled"
+      "themes/theme3": "enabled",
+      "primitives/size/default-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36329:62335",
     "$figmaModeId": "12509:0",
@@ -1863,7 +1872,8 @@
       "shadow.xl": "S:12d1833dd64569353680aa00c9d340d6f770698f,"
     },
     "selectedTokenSets": {
-      "themes/theme4": "enabled"
+      "themes/theme4": "enabled",
+      "primitives/size/default-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36329:62335",
     "$figmaModeId": "12509:1",
@@ -2133,7 +2143,8 @@
     "selectedTokenSets": {
       "semantic/style": "enabled",
       "semantic/color": "enabled",
-      "primitives/globals": "source"
+      "primitives/globals": "source",
+      "primitives/size/default-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5976",
     "$figmaModeId": "34811:5",
