@@ -4,24 +4,23 @@
     "name": "default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "primitives/size/default": "enabled",
-      "primitives/size/default-Uppsala": "disabled"
+      "primitives/size/default": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20757",
     "$figmaModeId": "36248:0",
     "$figmaVariableReferences": {
-      "font-size.1": "b1f5fd7e299d530798736f375e5b1d3e08555ce1",
-      "font-size.2": "831dad76406109fd975495c0517af33020a9a028",
-      "font-size.3": "8dfe2f287b12084947e7e4434e1baab7a6e35433",
-      "font-size.4": "4f4f1d85e89c841d870bcccf6bd4950ce0d7bbeb",
-      "font-size.5": "d3939cdc95d73375a996a08edaa99a4872ede3c4",
-      "font-size.6": "9dec29ecd91c522e0d8d1497a66211e0240dfaf2",
-      "font-size.7": "97078195889221838000e07e66d18d37c0a99485",
-      "font-size.8": "d54cfc6eed064ebc4317fe1856d5a8c8bdfb653b",
-      "font-size.9": "1900ca95e2c9fa2c0fd2b8398985e6390347e120",
-      "font-size.10": "99c2c7e3cce1e4586af29354b36e44a8a85fd262",
-      "font-size.11": "3b595316a742ea696c3b9314fe2584d207538ce6",
-      "font-size.14": "bbfc5f1bb20e49cc12524af7e8329621ea5c16d9"
+      "font-size-uppsala.1": "b1f5fd7e299d530798736f375e5b1d3e08555ce1",
+      "font-size-uppsala.2": "831dad76406109fd975495c0517af33020a9a028",
+      "font-size-uppsala.3": "8dfe2f287b12084947e7e4434e1baab7a6e35433",
+      "font-size-uppsala.4": "4f4f1d85e89c841d870bcccf6bd4950ce0d7bbeb",
+      "font-size-uppsala.5": "d3939cdc95d73375a996a08edaa99a4872ede3c4",
+      "font-size-uppsala.6": "9dec29ecd91c522e0d8d1497a66211e0240dfaf2",
+      "font-size-uppsala.7": "97078195889221838000e07e66d18d37c0a99485",
+      "font-size-uppsala.8": "d54cfc6eed064ebc4317fe1856d5a8c8bdfb653b",
+      "font-size-uppsala.9": "1900ca95e2c9fa2c0fd2b8398985e6390347e120",
+      "font-size-uppsala.10": "99c2c7e3cce1e4586af29354b36e44a8a85fd262",
+      "font-size-uppsala.11": "3b595316a742ea696c3b9314fe2584d207538ce6",
+      "font-size-uppsala.14": "bbfc5f1bb20e49cc12524af7e8329621ea5c16d9"
     },
     "group": "Size"
   },
@@ -30,24 +29,23 @@
     "name": "compact",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "primitives/size/compact": "enabled",
-      "primitives/size/default-Uppsala": "disabled"
+      "primitives/size/compact": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20757",
     "$figmaModeId": "36248:1",
     "$figmaVariableReferences": {
-      "font-size.1": "b1f5fd7e299d530798736f375e5b1d3e08555ce1",
-      "font-size.2": "831dad76406109fd975495c0517af33020a9a028",
-      "font-size.3": "8dfe2f287b12084947e7e4434e1baab7a6e35433",
-      "font-size.4": "4f4f1d85e89c841d870bcccf6bd4950ce0d7bbeb",
-      "font-size.5": "d3939cdc95d73375a996a08edaa99a4872ede3c4",
-      "font-size.6": "9dec29ecd91c522e0d8d1497a66211e0240dfaf2",
-      "font-size.7": "97078195889221838000e07e66d18d37c0a99485",
-      "font-size.8": "d54cfc6eed064ebc4317fe1856d5a8c8bdfb653b",
-      "font-size.9": "1900ca95e2c9fa2c0fd2b8398985e6390347e120",
-      "font-size.10": "99c2c7e3cce1e4586af29354b36e44a8a85fd262",
-      "font-size.11": "3b595316a742ea696c3b9314fe2584d207538ce6",
-      "font-size.14": "bbfc5f1bb20e49cc12524af7e8329621ea5c16d9"
+      "font-size-uppsala.1": "b1f5fd7e299d530798736f375e5b1d3e08555ce1",
+      "font-size-uppsala.2": "831dad76406109fd975495c0517af33020a9a028",
+      "font-size-uppsala.3": "8dfe2f287b12084947e7e4434e1baab7a6e35433",
+      "font-size-uppsala.4": "4f4f1d85e89c841d870bcccf6bd4950ce0d7bbeb",
+      "font-size-uppsala.5": "d3939cdc95d73375a996a08edaa99a4872ede3c4",
+      "font-size-uppsala.6": "9dec29ecd91c522e0d8d1497a66211e0240dfaf2",
+      "font-size-uppsala.7": "97078195889221838000e07e66d18d37c0a99485",
+      "font-size-uppsala.8": "d54cfc6eed064ebc4317fe1856d5a8c8bdfb653b",
+      "font-size-uppsala.9": "1900ca95e2c9fa2c0fd2b8398985e6390347e120",
+      "font-size-uppsala.10": "99c2c7e3cce1e4586af29354b36e44a8a85fd262",
+      "font-size-uppsala.11": "3b595316a742ea696c3b9314fe2584d207538ce6",
+      "font-size-uppsala.14": "bbfc5f1bb20e49cc12524af7e8329621ea5c16d9"
     },
     "group": "Size"
   },
@@ -376,8 +374,7 @@
       "primitives/modes/colors/light/theme2": "enabled",
       "primitives/modes/colors/light/theme3": "enabled",
       "primitives/modes/colors/light/theme4": "enabled",
-      "primitives/modes/colors/light/theme-Uppsala": "enabled",
-      "primitives/size/default-Uppsala": "disabled"
+      "primitives/modes/colors/light/theme-Uppsala": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
     "$figmaModeId": "34811:0",
@@ -784,8 +781,7 @@
       "primitives/modes/colors/dark/theme2": "enabled",
       "primitives/modes/colors/dark/theme3": "enabled",
       "primitives/modes/colors/dark/theme4": "enabled",
-      "primitives/modes/colors/dark/theme-Uppsala": "enabled",
-      "primitives/size/default-Uppsala": "disabled"
+      "primitives/modes/colors/dark/theme-Uppsala": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
     "$figmaModeId": "34811:1",
@@ -1191,8 +1187,7 @@
       "primitives/modes/typography/primary/theme2": "enabled",
       "primitives/modes/typography/primary/theme3": "enabled",
       "primitives/modes/typography/primary/theme4": "enabled",
-      "primitives/modes/typography/primary/theme-Uppsala": "enabled",
-      "primitives/size/default-Uppsala": "disabled"
+      "primitives/modes/typography/primary/theme-Uppsala": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20769",
     "$figmaModeId": "36248:2",
@@ -1224,8 +1219,7 @@
       "primitives/modes/typography/secondary/theme2": "enabled",
       "primitives/modes/typography/secondary/theme3": "enabled",
       "primitives/modes/typography/secondary/theme4": "enabled",
-      "primitives/modes/typography/secondary/theme-Uppsala": "enabled",
-      "primitives/size/default-Uppsala": "disabled"
+      "primitives/modes/typography/secondary/theme-Uppsala": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20769",
     "$figmaModeId": "36248:3",
@@ -1254,8 +1248,7 @@
     "name": "Uppsala",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/theme-Uppsala": "enabled",
-      "primitives/size/default-Uppsala": "disabled"
+      "themes/theme-Uppsala": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36329:62335",
     "$figmaModeId": "36329:4",
@@ -1347,8 +1340,7 @@
     "name": "altinn",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/theme2": "enabled",
-      "primitives/size/default-Uppsala": "disabled"
+      "themes/theme2": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36329:62335",
     "$figmaModeId": "36329:5",
@@ -1440,8 +1432,7 @@
     "name": "uutilsynet",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/theme3": "enabled",
-      "primitives/size/default-Uppsala": "disabled"
+      "themes/theme3": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36329:62335",
     "$figmaModeId": "12509:0",
@@ -1872,8 +1863,7 @@
       "shadow.xl": "S:12d1833dd64569353680aa00c9d340d6f770698f,"
     },
     "selectedTokenSets": {
-      "themes/theme4": "enabled",
-      "primitives/size/default-Uppsala": "disabled"
+      "themes/theme4": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36329:62335",
     "$figmaModeId": "12509:1",
@@ -2143,8 +2133,7 @@
     "selectedTokenSets": {
       "semantic/style": "enabled",
       "semantic/color": "enabled",
-      "primitives/globals": "source",
-      "primitives/size/default-Uppsala": "disabled"
+      "primitives/globals": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5976",
     "$figmaModeId": "34811:5",
