@@ -13,7 +13,7 @@
       "type": "lineHeights"
     }
   },
-  "font-size": {
+  "font-size-uppsala": {
     "1": {
       "value": "12",
       "type": "fontSizes"
@@ -66,39 +66,39 @@
   },
   "letter-spacing-uppsala": {
     "1": {
-      "value": "-2.5%",
-      "type": "letterSpacing"
-    },
-    "2": {
-      "value": "-2%",
-      "type": "letterSpacing"
-    },
-    "3": {
-      "value": "-1.5%",
-      "type": "letterSpacing"
-    },
-    "4": {
       "value": "-1%",
       "type": "letterSpacing"
     },
-    "5": {
-      "value": "-0.9%",
-      "type": "letterSpacing"
-    },
-    "6": {
+    "2": {
       "value": "-0.5%",
       "type": "letterSpacing"
     },
-    "7": {
+    "3": {
+      "value": "-0.25%",
+      "type": "letterSpacing"
+    },
+    "4": {
+      "value": "-0.15%",
+      "type": "letterSpacing"
+    },
+    "5": {
       "value": "0%",
       "type": "letterSpacing"
     },
+    "6": {
+      "value": "0.15%",
+      "type": "letterSpacing"
+    },
+    "7": {
+      "value": "0.25%",
+      "type": "letterSpacing"
+    },
     "8": {
-      "value": "0.6%",
+      "value": "0.5%",
       "type": "letterSpacing"
     },
     "9": {
-      "value": "1%",
+      "value": "1.5%",
       "type": "letterSpacing"
     }
   }
