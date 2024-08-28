@@ -6,8 +6,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.bold}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.14}",
-          "letterSpacing": "{letter-spacing-uppsala.1}"
+          "fontSize": "{font-size.14}",
+          "letterSpacing": "{letter-spacing.1}"
         },
         "type": "typography",
         "description": "ua display lg"
@@ -17,8 +17,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.bold}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.11}",
-          "letterSpacing": "{letter-spacing-uppsala.1}"
+          "fontSize": "{font-size.11}",
+          "letterSpacing": "{letter-spacing.1}"
         },
         "type": "typography",
         "description": "ua display md"
@@ -30,8 +30,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.bold}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.11}",
-          "letterSpacing": "{letter-spacing-uppsala.1}"
+          "fontSize": "{font-size.11}",
+          "letterSpacing": "{letter-spacing.1}"
         },
         "type": "typography"
       },
@@ -40,8 +40,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.bold}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.10}",
-          "letterSpacing": "{letter-spacing-uppsala.1}"
+          "fontSize": "{font-size.10}",
+          "letterSpacing": "{letter-spacing.1}"
         },
         "type": "typography"
       },
@@ -50,8 +50,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.bold}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.9}",
-          "letterSpacing": "{letter-spacing-uppsala.2}"
+          "fontSize": "{font-size.9}",
+          "letterSpacing": "{letter-spacing.2}"
         },
         "type": "typography"
       },
@@ -60,8 +60,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.8}",
-          "letterSpacing": "{letter-spacing-uppsala.3}"
+          "fontSize": "{font-size.8}",
+          "letterSpacing": "{letter-spacing.3}"
         },
         "type": "typography"
       },
@@ -70,8 +70,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.7}",
-          "letterSpacing": "{letter-spacing-uppsala.5}"
+          "fontSize": "{font-size.7}",
+          "letterSpacing": "{letter-spacing.5}"
         },
         "type": "typography"
       },
@@ -80,8 +80,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.6}",
-          "letterSpacing": "{letter-spacing-uppsala.6}"
+          "fontSize": "{font-size.6}",
+          "letterSpacing": "{letter-spacing.6}"
         },
         "type": "typography"
       },
@@ -90,8 +90,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.5}",
-          "letterSpacing": "{letter-spacing-uppsala.6}"
+          "fontSize": "{font-size.5}",
+          "letterSpacing": "{letter-spacing.6}"
         },
         "type": "typography"
       }
@@ -102,8 +102,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.lg}",
-          "fontSize": "{font-size-uppsala.8}",
-          "letterSpacing": "{letter-spacing-uppsala.8}"
+          "fontSize": "{font-size.8}",
+          "letterSpacing": "{letter-spacing.8}"
         },
         "type": "typography"
       },
@@ -112,8 +112,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.lg}",
-          "fontSize": "{font-size-uppsala.7}",
-          "letterSpacing": "{letter-spacing-uppsala.8}"
+          "fontSize": "{font-size.7}",
+          "letterSpacing": "{letter-spacing.8}"
         },
         "type": "typography"
       },
@@ -122,8 +122,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.lg}",
-          "fontSize": "{font-size-uppsala.6}",
-          "letterSpacing": "{letter-spacing-uppsala.7}"
+          "fontSize": "{font-size.6}",
+          "letterSpacing": "{letter-spacing.7}"
         },
         "type": "typography"
       },
@@ -132,8 +132,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.lg}",
-          "fontSize": "{font-size-uppsala.5}",
-          "letterSpacing": "{letter-spacing-uppsala.6}"
+          "fontSize": "{font-size.5}",
+          "letterSpacing": "{letter-spacing.6}"
         },
         "type": "typography"
       }
@@ -144,8 +144,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.md}",
-          "fontSize": "{font-size-uppsala.6}",
-          "letterSpacing": "{letter-spacing-uppsala.8}"
+          "fontSize": "{font-size.6}",
+          "letterSpacing": "{letter-spacing.8}"
         },
         "type": "typography"
       },
@@ -154,8 +154,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.md}",
-          "fontSize": "{font-size-uppsala.5}",
-          "letterSpacing": "{letter-spacing-uppsala.8}"
+          "fontSize": "{font-size.5}",
+          "letterSpacing": "{letter-spacing.8}"
         },
         "type": "typography"
       },
@@ -164,8 +164,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.md}",
-          "fontSize": "{font-size-uppsala.4}",
-          "letterSpacing": "{letter-spacing-uppsala.7}"
+          "fontSize": "{font-size.4}",
+          "letterSpacing": "{letter-spacing.7}"
         },
         "type": "typography"
       },
@@ -174,8 +174,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.md}",
-          "fontSize": "{font-size-uppsala.3}",
-          "letterSpacing": "{letter-spacing-uppsala.6}"
+          "fontSize": "{font-size.3}",
+          "letterSpacing": "{letter-spacing.6}"
         },
         "type": "typography"
       },
@@ -185,8 +185,8 @@
             "fontFamily": "{font.family}",
             "fontWeight": "{font-weight.regular}",
             "lineHeight": "{line-height.sm}",
-            "fontSize": "{font-size-uppsala.6}",
-            "letterSpacing": "{letter-spacing-uppsala.8}"
+            "fontSize": "{font-size.6}",
+            "letterSpacing": "{letter-spacing.8}"
           },
           "type": "typography"
         },
@@ -195,8 +195,8 @@
             "fontFamily": "{font.family}",
             "fontWeight": "{font-weight.regular}",
             "lineHeight": "{line-height.sm}",
-            "fontSize": "{font-size-uppsala.5}",
-            "letterSpacing": "{letter-spacing-uppsala.8}"
+            "fontSize": "{font-size.5}",
+            "letterSpacing": "{letter-spacing.8}"
           },
           "type": "typography"
         },
@@ -205,8 +205,8 @@
             "fontFamily": "{font.family}",
             "fontWeight": "{font-weight.regular}",
             "lineHeight": "{line-height.sm}",
-            "fontSize": "{font-size-uppsala.4}",
-            "letterSpacing": "{letter-spacing-uppsala.7}"
+            "fontSize": "{font-size.4}",
+            "letterSpacing": "{letter-spacing.7}"
           },
           "type": "typography"
         },
@@ -215,8 +215,8 @@
             "fontFamily": "{font.family}",
             "fontWeight": "{font-weight.regular}",
             "lineHeight": "{line-height.sm}",
-            "fontSize": "{font-size-uppsala.3}",
-            "letterSpacing": "{letter-spacing-uppsala.6}"
+            "fontSize": "{font-size.3}",
+            "letterSpacing": "{letter-spacing.6}"
           },
           "type": "typography"
         }
@@ -227,8 +227,8 @@
             "fontFamily": "{font.family}",
             "fontWeight": "{font-weight.regular}",
             "lineHeight": "{line-height.lg}",
-            "fontSize": "{font-size-uppsala.6}",
-            "letterSpacing": "{letter-spacing-uppsala.8}"
+            "fontSize": "{font-size.6}",
+            "letterSpacing": "{letter-spacing.8}"
           },
           "type": "typography"
         },
@@ -237,8 +237,8 @@
             "fontFamily": "{font.family}",
             "fontWeight": "{font-weight.regular}",
             "lineHeight": "{line-height.lg}",
-            "fontSize": "{font-size-uppsala.5}",
-            "letterSpacing": "{letter-spacing-uppsala.8}"
+            "fontSize": "{font-size.5}",
+            "letterSpacing": "{letter-spacing.8}"
           },
           "type": "typography"
         },
@@ -247,8 +247,8 @@
             "fontFamily": "{font.family}",
             "fontWeight": "{font-weight.regular}",
             "lineHeight": "{line-height.lg}",
-            "fontSize": "{font-size-uppsala.4}",
-            "letterSpacing": "{letter-spacing-uppsala.7}"
+            "fontSize": "{font-size.4}",
+            "letterSpacing": "{letter-spacing.7}"
           },
           "type": "typography"
         },
@@ -257,8 +257,8 @@
             "fontFamily": "{font.family}",
             "fontWeight": "{font-weight.regular}",
             "lineHeight": "{line-height.lg}",
-            "fontSize": "{font-size-uppsala.3}",
-            "letterSpacing": "{letter-spacing-uppsala.6}"
+            "fontSize": "{font-size.3}",
+            "letterSpacing": "{letter-spacing.6}"
           },
           "type": "typography"
         }
@@ -270,8 +270,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.6}",
-          "letterSpacing": "{letter-spacing-uppsala.8}"
+          "fontSize": "{font-size.6}",
+          "letterSpacing": "{letter-spacing.8}"
         },
         "type": "typography"
       },
@@ -280,8 +280,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.5}",
-          "letterSpacing": "{letter-spacing-uppsala.8}"
+          "fontSize": "{font-size.5}",
+          "letterSpacing": "{letter-spacing.8}"
         },
         "type": "typography"
       },
@@ -290,8 +290,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.4}",
-          "letterSpacing": "{letter-spacing-uppsala.7}"
+          "fontSize": "{font-size.4}",
+          "letterSpacing": "{letter-spacing.7}"
         },
         "type": "typography"
       },
@@ -300,8 +300,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.medium}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.3}",
-          "letterSpacing": "{letter-spacing-uppsala.6}"
+          "fontSize": "{font-size.3}",
+          "letterSpacing": "{letter-spacing.6}"
         },
         "type": "typography"
       }
@@ -312,8 +312,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.6}",
-          "letterSpacing": "{letter-spacing-uppsala.8}"
+          "fontSize": "{font-size.6}",
+          "letterSpacing": "{letter-spacing.8}"
         },
         "type": "typography"
       },
@@ -322,8 +322,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.5}",
-          "letterSpacing": "{letter-spacing-uppsala.8}"
+          "fontSize": "{font-size.5}",
+          "letterSpacing": "{letter-spacing.8}"
         },
         "type": "typography"
       },
@@ -332,8 +332,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.4}",
-          "letterSpacing": "{letter-spacing-uppsala.7}"
+          "fontSize": "{font-size.4}",
+          "letterSpacing": "{letter-spacing.7}"
         },
         "type": "typography"
       },
@@ -342,8 +342,8 @@
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.regular}",
           "lineHeight": "{line-height.sm}",
-          "fontSize": "{font-size-uppsala.3}",
-          "letterSpacing": "{letter-spacing-uppsala.6}"
+          "fontSize": "{font-size.3}",
+          "letterSpacing": "{letter-spacing.6}"
         },
         "type": "typography"
       }

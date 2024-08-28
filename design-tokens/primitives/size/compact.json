@@ -64,7 +64,7 @@
       "description": "ua font-size for display md"
     }
   },
-  "letter-spacing-uppsala": {
+  "letter-spacing": {
     "1": {
       "value": "-2.5%",
       "type": "letterSpacing"

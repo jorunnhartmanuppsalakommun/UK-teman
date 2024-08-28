@@ -1,19 +1,19 @@
 {
   "line-height": {
     "sm": {
-      "value": "130%",
+      "value": "100%",
       "type": "lineHeights"
     },
     "md": {
-      "value": "150%",
+      "value": "115%",
       "type": "lineHeights"
     },
     "lg": {
-      "value": "170%",
+      "value": "130%",
       "type": "lineHeights"
     }
   },
-  "font-size-uppsala": {
+  "font-size": {
     "1": {
       "value": "12",
       "type": "fontSizes"
@@ -64,7 +64,7 @@
       "description": "added for UA Display lg"
     }
   },
-  "letter-spacing-uppsala": {
+  "letter-spacing": {
     "1": {
       "value": "-2.5%",
       "type": "letterSpacing"

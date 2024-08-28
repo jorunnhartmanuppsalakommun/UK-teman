@@ -2330,5 +2330,23 @@
       "color.focus.outer": "23d382edf56ee3dfe41502f66eb2445d229a5a14"
     },
     "group": "Semantic"
+  },
+  {
+    "id": "c2f50a0a9e7788d6c0400f767308adbd645b16d6",
+    "name": "default-uppsala",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/size/default-Uppsala": "enabled"
+    },
+    "group": "Size"
+  },
+  {
+    "id": "66d31aa5f5bb44c605eadcf5298281670df81ce6",
+    "name": "compact-uppsala",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/size/compact-Uppsala": "enabled"
+    },
+    "group": "Size"
   }
 ]
