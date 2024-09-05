@@ -4,7 +4,9 @@
     "name": "default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "primitives/size/default": "enabled"
+      "primitives/size/default": "enabled",
+      "primitives/size/desktop-Uppsala": "disabled",
+      "primitives/size/mobile-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20757",
     "$figmaModeId": "36248:0",
@@ -29,7 +31,9 @@
     "name": "compact",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "primitives/size/compact": "enabled"
+      "primitives/size/compact": "enabled",
+      "primitives/size/desktop-Uppsala": "disabled",
+      "primitives/size/mobile-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20757",
     "$figmaModeId": "36248:1",
@@ -374,7 +378,9 @@
       "primitives/modes/colors/light/theme2": "enabled",
       "primitives/modes/colors/light/theme3": "enabled",
       "primitives/modes/colors/light/theme4": "enabled",
-      "primitives/modes/colors/light/theme-Uppsala": "enabled"
+      "primitives/modes/colors/light/theme-Uppsala": "enabled",
+      "primitives/size/desktop-Uppsala": "disabled",
+      "primitives/size/mobile-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
     "$figmaModeId": "34811:0",
@@ -781,7 +787,9 @@
       "primitives/modes/colors/dark/theme2": "enabled",
       "primitives/modes/colors/dark/theme3": "enabled",
       "primitives/modes/colors/dark/theme4": "enabled",
-      "primitives/modes/colors/dark/theme-Uppsala": "enabled"
+      "primitives/modes/colors/dark/theme-Uppsala": "enabled",
+      "primitives/size/desktop-Uppsala": "disabled",
+      "primitives/size/mobile-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
     "$figmaModeId": "34811:1",
@@ -1187,7 +1195,9 @@
       "primitives/modes/typography/primary/theme2": "enabled",
       "primitives/modes/typography/primary/theme3": "enabled",
       "primitives/modes/typography/primary/theme4": "enabled",
-      "primitives/modes/typography/primary/theme-Uppsala": "enabled"
+      "primitives/modes/typography/primary/theme-Uppsala": "enabled",
+      "primitives/size/desktop-Uppsala": "disabled",
+      "primitives/size/mobile-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20769",
     "$figmaModeId": "36248:2",
@@ -1219,7 +1229,9 @@
       "primitives/modes/typography/secondary/theme2": "enabled",
       "primitives/modes/typography/secondary/theme3": "enabled",
       "primitives/modes/typography/secondary/theme4": "enabled",
-      "primitives/modes/typography/secondary/theme-Uppsala": "enabled"
+      "primitives/modes/typography/secondary/theme-Uppsala": "enabled",
+      "primitives/size/desktop-Uppsala": "disabled",
+      "primitives/size/mobile-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36248:20769",
     "$figmaModeId": "36248:3",
@@ -1248,7 +1260,9 @@
     "name": "Uppsala",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/theme-Uppsala": "enabled"
+      "themes/theme-Uppsala": "enabled",
+      "primitives/size/desktop-Uppsala": "disabled",
+      "primitives/size/mobile-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36329:62335",
     "$figmaModeId": "36329:4",
@@ -1327,11 +1341,7 @@
       "color.brand3.12": "e4f4a3291a4174bfe5d33483a092771cf9d089f6",
       "color.brand3.13": "db8bbde07d8ddec38f40cbc721cef8bd0d508de3",
       "color.brand3.contrast-1": "2652dd310d377ac5d2054760e5063a3b95f7a457",
-      "color.brand3.contrast-2": "31d97e5fa66dac9567a3627637c166f39835075d",
-      "font.family": "330d8f6c4b5b9580364a1b1774ae0675af8d9ae3",
-      "font-weight.medium": "adf8b9e900a33d6e21272c524d060cdd465b3fc9",
-      "font-weight.bold": "590dd5afc45fa919cfe48bd698e5762ac7336ab8",
-      "font-weight.regular": "d7263b56a1c6b1527cd29c8aa892976df018faeb"
+      "color.brand3.contrast-2": "31d97e5fa66dac9567a3627637c166f39835075d"
     },
     "group": "Theme"
   },
@@ -1340,7 +1350,9 @@
     "name": "altinn",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/theme2": "enabled"
+      "themes/theme2": "enabled",
+      "primitives/size/desktop-Uppsala": "disabled",
+      "primitives/size/mobile-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36329:62335",
     "$figmaModeId": "36329:5",
@@ -1419,11 +1431,7 @@
       "color.brand3.12": "e4f4a3291a4174bfe5d33483a092771cf9d089f6",
       "color.brand3.13": "db8bbde07d8ddec38f40cbc721cef8bd0d508de3",
       "color.brand3.contrast-1": "2652dd310d377ac5d2054760e5063a3b95f7a457",
-      "color.brand3.contrast-2": "31d97e5fa66dac9567a3627637c166f39835075d",
-      "font.family": "330d8f6c4b5b9580364a1b1774ae0675af8d9ae3",
-      "font-weight.medium": "adf8b9e900a33d6e21272c524d060cdd465b3fc9",
-      "font-weight.bold": "590dd5afc45fa919cfe48bd698e5762ac7336ab8",
-      "font-weight.regular": "d7263b56a1c6b1527cd29c8aa892976df018faeb"
+      "color.brand3.contrast-2": "31d97e5fa66dac9567a3627637c166f39835075d"
     },
     "group": "Theme"
   },
@@ -1432,7 +1440,9 @@
     "name": "uutilsynet",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "themes/theme3": "enabled"
+      "themes/theme3": "enabled",
+      "primitives/size/desktop-Uppsala": "disabled",
+      "primitives/size/mobile-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36329:62335",
     "$figmaModeId": "12509:0",
@@ -1511,11 +1521,7 @@
       "color.brand3.12": "e4f4a3291a4174bfe5d33483a092771cf9d089f6",
       "color.brand3.13": "db8bbde07d8ddec38f40cbc721cef8bd0d508de3",
       "color.brand3.contrast-1": "2652dd310d377ac5d2054760e5063a3b95f7a457",
-      "color.brand3.contrast-2": "31d97e5fa66dac9567a3627637c166f39835075d",
-      "font.family": "330d8f6c4b5b9580364a1b1774ae0675af8d9ae3",
-      "font-weight.medium": "adf8b9e900a33d6e21272c524d060cdd465b3fc9",
-      "font-weight.bold": "590dd5afc45fa919cfe48bd698e5762ac7336ab8",
-      "font-weight.regular": "d7263b56a1c6b1527cd29c8aa892976df018faeb"
+      "color.brand3.contrast-2": "31d97e5fa66dac9567a3627637c166f39835075d"
     },
     "group": "Theme"
   },
@@ -1826,10 +1832,6 @@
       "color.warning.contrast-default": "S:9074781839f41e4c47ab4430d615d92fc5037ac1,",
       "color.warning.contrast-subtle": "S:817882711910b09e78721645177e8ba5d435b9c0,",
       "typography.heading.2xl": "S:6522dc4b8ed783367ffae3547373fe4065d05105,",
-      "typography.heading.xl": "S:83a17fe1cc6aefa0f3d092e96390370cb3bf1097,",
-      "typography.heading.lg": "S:93d79f54c0354e0a279bfd28787a183dc77e1ecb,",
-      "typography.heading.md": "S:8ebbdd29662f381a95d35c7a4a6db9891df8cb09,",
-      "typography.heading.sm": "S:e54841dac88e0ed9e898a6f966368e88d895b8ea,",
       "typography.heading.xs": "S:2a570071064ed835a0c7d289f37521159faabc80,",
       "typography.heading.2xs": "S:b5abfc732446845d9455623a97f34818015c08f2,",
       "typography.ingress.lg": "S:83831e01fd4a0bd0fa750faed5adb5a581146c32,",
@@ -1860,10 +1862,16 @@
       "shadow.sm": "S:b7286217fe5289daee61ccf27cd51922fdd5286c,",
       "shadow.md": "S:49798562263a61ec01ba30bc55f9053f2ed7509d,",
       "shadow.lg": "S:2ceec623e64a35f598edfe1600d05365ec0b8bf7,",
-      "shadow.xl": "S:12d1833dd64569353680aa00c9d340d6f770698f,"
+      "shadow.xl": "S:12d1833dd64569353680aa00c9d340d6f770698f,",
+      "typography.heading.lg-h1-mobile": "S:93d79f54c0354e0a279bfd28787a183dc77e1ecb,",
+      "typography.heading.xl-h1-desktop": "S:83a17fe1cc6aefa0f3d092e96390370cb3bf1097,",
+      "typography.heading.md-h2": "S:8ebbdd29662f381a95d35c7a4a6db9891df8cb09,",
+      "typography.heading.sm-h3": "S:e54841dac88e0ed9e898a6f966368e88d895b8ea,"
     },
     "selectedTokenSets": {
-      "themes/theme4": "enabled"
+      "themes/theme4": "enabled",
+      "primitives/size/desktop-Uppsala": "disabled",
+      "primitives/size/mobile-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:36329:62335",
     "$figmaModeId": "12509:1",
@@ -1942,11 +1950,7 @@
       "color.brand3.12": "e4f4a3291a4174bfe5d33483a092771cf9d089f6",
       "color.brand3.13": "db8bbde07d8ddec38f40cbc721cef8bd0d508de3",
       "color.brand3.contrast-1": "2652dd310d377ac5d2054760e5063a3b95f7a457",
-      "color.brand3.contrast-2": "31d97e5fa66dac9567a3627637c166f39835075d",
-      "font.family": "330d8f6c4b5b9580364a1b1774ae0675af8d9ae3",
-      "font-weight.medium": "adf8b9e900a33d6e21272c524d060cdd465b3fc9",
-      "font-weight.bold": "590dd5afc45fa919cfe48bd698e5762ac7336ab8",
-      "font-weight.regular": "d7263b56a1c6b1527cd29c8aa892976df018faeb"
+      "color.brand3.contrast-2": "31d97e5fa66dac9567a3627637c166f39835075d"
     },
     "group": "Theme"
   },
@@ -1955,10 +1959,6 @@
     "name": "Semantic",
     "$figmaStyleReferences": {
       "typography.heading.2xl": "S:a956be42d503e0ce936234128545f24ef6eebcf4,",
-      "typography.heading.xl": "S:da8133eb0315ec7483f2a1b304118aa41c63adcb,",
-      "typography.heading.lg": "S:dd8bd7be64fc41d10f46278ace0c0470c2b0bd4a,",
-      "typography.heading.md": "S:cb02987a07b6659c1fae6d5c9106f7adf3c3eb43,",
-      "typography.heading.sm": "S:2ffc7442434e8a1b7221e4e458476e4df635aae9,",
       "typography.heading.xs": "S:dbb0824aabfa45fd5cea9e20daa10e44a75a1465,",
       "typography.heading.2xs": "S:73ba934b8fc4d567186549ab8d0aa88982241143,",
       "typography.ingress.lg": "S:b7bed8973faa9a4aad75a71c292a45e73266bd91,",
@@ -2128,12 +2128,18 @@
       "shadow.lg": "S:c2ae86540342d9def507e8161e3c263c7ebb2c54,",
       "shadow.xl": "S:06428dff721475b7b838945d3644df7086991d45,",
       "typography.display.lg": "S:4874225370053497a76a1faaada8c9f4164f5306,",
-      "typography.display.md": "S:3937c3e5b2aa29c41dbe8444e7c38357beb7c94c,"
+      "typography.display.md": "S:3937c3e5b2aa29c41dbe8444e7c38357beb7c94c,",
+      "typography.heading.lg-h1-mobile": "S:dd8bd7be64fc41d10f46278ace0c0470c2b0bd4a,",
+      "typography.heading.xl-h1-desktop": "S:da8133eb0315ec7483f2a1b304118aa41c63adcb,",
+      "typography.heading.md-h2": "S:cb02987a07b6659c1fae6d5c9106f7adf3c3eb43,",
+      "typography.heading.sm-h3": "S:2ffc7442434e8a1b7221e4e458476e4df635aae9,"
     },
     "selectedTokenSets": {
       "semantic/style": "enabled",
       "semantic/color": "enabled",
-      "primitives/globals": "source"
+      "primitives/globals": "source",
+      "primitives/size/desktop-Uppsala": "disabled",
+      "primitives/size/mobile-Uppsala": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:34811:5976",
     "$figmaModeId": "34811:5",
@@ -2189,8 +2195,8 @@
       "sizing.30": "b6cddc044d1a76bc1771cc2e6374f96a89091a33",
       "border-width.default": "81e4ec4c91c615c79289085d55d2c9893ad53ad6",
       "border-width.highlight": "32e6fcb30946849978d0977439a43ac65da0c1d2",
-      "font-size.display-lg": "3f678679ee33d51da584c1502f8152784dd73a9f",
-      "font-size.display-md": "cd36964ba95e7730036c8321c6def4b5a960237f",
+      "font-size.display-lg": "26c23438beda1994e5b2a8b6800f943655ad0f98",
+      "font-size.display-md": "3987cb8abe663f33650bfc396dc6d6a67d4f73e9",
       "color.accent.background-default": "7bfc5f522aaf47988b2100653349ea9cc8b86e94",
       "color.accent.background-subtle": "3733c8b2b5912e87b21e932519c08389c01118fb",
       "color.accent.surface-default": "d110514238f9591bff578e3037d2aef6742d5264",
@@ -2327,7 +2333,8 @@
       "color.warning.contrast-default": "5468502127279b3668a921d6f5e6b81ad708afaf",
       "color.warning.contrast-subtle": "0a3d693328901f40e3c5e54997098054da7b8b63",
       "color.focus.inner": "8859cb72f66b6cfdf0f67bcc6193744ad84e19b6",
-      "color.focus.outer": "23d382edf56ee3dfe41502f66eb2445d229a5a14"
+      "color.focus.outer": "23d382edf56ee3dfe41502f66eb2445d229a5a14",
+      "color.link.default": "c305deb18d987c9d68ba8139f7011208ee8be277"
     },
     "group": "Semantic"
   },
@@ -2336,17 +2343,51 @@
     "name": "default-uppsala",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "primitives/size/default-Uppsala": "enabled"
+      "primitives/size/desktop-Uppsala": "enabled",
+      "primitives/size/mobile-Uppsala": "disabled"
     },
-    "group": "Size"
+    "group": "Size",
+    "$figmaVariableReferences": {
+      "font-size.1": "b1f5fd7e299d530798736f375e5b1d3e08555ce1",
+      "font-size.2": "831dad76406109fd975495c0517af33020a9a028",
+      "font-size.3": "8dfe2f287b12084947e7e4434e1baab7a6e35433",
+      "font-size.4": "4f4f1d85e89c841d870bcccf6bd4950ce0d7bbeb",
+      "font-size.5": "d3939cdc95d73375a996a08edaa99a4872ede3c4",
+      "font-size.6": "9dec29ecd91c522e0d8d1497a66211e0240dfaf2",
+      "font-size.7": "97078195889221838000e07e66d18d37c0a99485",
+      "font-size.8": "d54cfc6eed064ebc4317fe1856d5a8c8bdfb653b",
+      "font-size.9": "1900ca95e2c9fa2c0fd2b8398985e6390347e120",
+      "font-size.10": "99c2c7e3cce1e4586af29354b36e44a8a85fd262",
+      "font-size.11": "3b595316a742ea696c3b9314fe2584d207538ce6",
+      "font-size.14": "bbfc5f1bb20e49cc12524af7e8329621ea5c16d9"
+    },
+    "$figmaCollectionId": "VariableCollectionId:36248:20757",
+    "$figmaModeId": "12676:2"
   },
   {
     "id": "66d31aa5f5bb44c605eadcf5298281670df81ce6",
     "name": "compact-uppsala",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "primitives/size/compact-Uppsala": "enabled"
+      "primitives/size/desktop-Uppsala": "disabled",
+      "primitives/size/mobile-Uppsala": "enabled"
     },
-    "group": "Size"
+    "group": "Size",
+    "$figmaVariableReferences": {
+      "font-size.1": "b1f5fd7e299d530798736f375e5b1d3e08555ce1",
+      "font-size.2": "831dad76406109fd975495c0517af33020a9a028",
+      "font-size.3": "8dfe2f287b12084947e7e4434e1baab7a6e35433",
+      "font-size.4": "4f4f1d85e89c841d870bcccf6bd4950ce0d7bbeb",
+      "font-size.5": "d3939cdc95d73375a996a08edaa99a4872ede3c4",
+      "font-size.6": "9dec29ecd91c522e0d8d1497a66211e0240dfaf2",
+      "font-size.7": "97078195889221838000e07e66d18d37c0a99485",
+      "font-size.8": "d54cfc6eed064ebc4317fe1856d5a8c8bdfb653b",
+      "font-size.9": "1900ca95e2c9fa2c0fd2b8398985e6390347e120",
+      "font-size.10": "99c2c7e3cce1e4586af29354b36e44a8a85fd262",
+      "font-size.11": "3b595316a742ea696c3b9314fe2584d207538ce6",
+      "font-size.14": "bbfc5f1bb20e49cc12524af7e8329621ea5c16d9"
+    },
+    "$figmaCollectionId": "VariableCollectionId:36248:20757",
+    "$figmaModeId": "12676:3"
   }
 ]

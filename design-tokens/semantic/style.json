@@ -35,7 +35,7 @@
         },
         "type": "typography"
       },
-      "xl": {
+      "xl-h1-desktop": {
         "value": {
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.bold}",
@@ -45,7 +45,7 @@
         },
         "type": "typography"
       },
-      "lg": {
+      "lg-h1-mobile": {
         "value": {
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.bold}",
@@ -55,7 +55,7 @@
         },
         "type": "typography"
       },
-      "md": {
+      "md-h2": {
         "value": {
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.medium}",
@@ -65,7 +65,7 @@
         },
         "type": "typography"
       },
-      "sm": {
+      "sm-h3": {
         "value": {
           "fontFamily": "{font.family}",
           "fontWeight": "{font-weight.medium}",

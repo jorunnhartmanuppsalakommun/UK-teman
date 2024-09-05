@@ -1,15 +1,15 @@
 {
   "line-height": {
     "sm": {
-      "value": "130%",
+      "value": "100%",
       "type": "lineHeights"
     },
     "md": {
-      "value": "150%",
+      "value": "115%",
       "type": "lineHeights"
     },
     "lg": {
-      "value": "170%",
+      "value": "130%",
       "type": "lineHeights"
     }
   },
@@ -35,7 +35,7 @@
       "type": "fontSizes"
     },
     "6": {
-      "value": "21",
+      "value": "20",
       "type": "fontSizes"
     },
     "7": {
@@ -43,7 +43,7 @@
       "type": "fontSizes"
     },
     "8": {
-      "value": "30",
+      "value": "28",
       "type": "fontSizes"
     },
     "9": {
@@ -66,39 +66,39 @@
   },
   "letter-spacing": {
     "1": {
-      "value": "-1%",
+      "value": "-2.5%",
       "type": "letterSpacing"
     },
     "2": {
-      "value": "-0.5%",
+      "value": "-2%",
       "type": "letterSpacing"
     },
     "3": {
-      "value": "-0.25%",
+      "value": "-1.5%",
       "type": "letterSpacing"
     },
     "4": {
-      "value": "-0.15%",
+      "value": "-1%",
       "type": "letterSpacing"
     },
     "5": {
-      "value": "0%",
+      "value": "-0.9%",
       "type": "letterSpacing"
     },
     "6": {
-      "value": "0.15%",
+      "value": "-0.5%",
       "type": "letterSpacing"
     },
     "7": {
-      "value": "0.25%",
+      "value": "0%",
       "type": "letterSpacing"
     },
     "8": {
-      "value": "0.5%",
+      "value": "0.6%",
       "type": "letterSpacing"
     },
     "9": {
-      "value": "1.5%",
+      "value": "1%",
       "type": "letterSpacing"
     }
   }

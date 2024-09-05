@@ -567,6 +567,12 @@
         "value": "{color.accent.text-default}",
         "type": "color"
       }
+    },
+    "link": {
+      "default": {
+        "value": "{global.blue.8}",
+        "type": "color"
+      }
     }
   }
 }
