@@ -1,0 +1,20 @@
+{
+  "theme2": {
+    "main": {
+      "value": "Helvetica Neue",
+      "type": "fontFamilies"
+    },
+    "medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    }
+  }
+}

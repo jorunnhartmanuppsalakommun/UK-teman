@@ -1,0 +1,20 @@
+{
+  "theme3": {
+    "main": {
+      "value": "IBM Plex Mono",
+      "type": "fontFamilies"
+    },
+    "medium": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    }
+  }
+}

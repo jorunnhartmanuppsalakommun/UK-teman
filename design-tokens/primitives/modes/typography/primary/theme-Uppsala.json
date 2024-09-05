@@ -1,0 +1,21 @@
+{
+  "theme-Uppsala": {
+    "main": {
+      "value": "Source Sans 3",
+      "type": "fontFamilies",
+      "description": "UA font famlily"
+    },
+    "medium": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    }
+  }
+}

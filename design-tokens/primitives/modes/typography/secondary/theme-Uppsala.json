@@ -1,0 +1,20 @@
+{
+  "theme-Uppsala": {
+    "main": {
+      "value": "IBM Plex Mono",
+      "type": "fontFamilies"
+    },
+    "medium": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    }
+  }
+}

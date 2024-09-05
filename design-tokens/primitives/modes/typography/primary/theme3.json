@@ -1,0 +1,20 @@
+{
+  "theme3": {
+    "main": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "bold": {
+      "value": "Semi bold",
+      "type": "fontWeights"
+    },
+    "regular": {
+      "value": "Regular",
+      "type": "fontWeights"
+    }
+  }
+}

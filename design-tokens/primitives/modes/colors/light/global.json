@@ -1,334 +1,376 @@
 {
-  "color": {
-    "accent": {
+  "global": {
+    "blue": {
       "1": {
-        "value": "{theme2.accent.1}",
+        "value": "#fefeff",
         "type": "color"
       },
       "2": {
-        "value": "{theme2.accent.2}",
+        "value": "#edf5fa",
         "type": "color"
       },
       "3": {
-        "value": "{theme2.accent.3}",
+        "value": "#d3e5f4",
         "type": "color"
       },
       "4": {
-        "value": "{theme2.accent.4}",
+        "value": "#b7d5ed",
         "type": "color"
       },
       "5": {
-        "value": "{theme2.accent.5}",
+        "value": "#9bc5e5",
         "type": "color"
       },
       "6": {
-        "value": "{theme2.accent.6}",
+        "value": "#94c1e3",
         "type": "color"
       },
       "7": {
-        "value": "{theme2.accent.7}",
+        "value": "#2f86c9",
         "type": "color"
       },
       "8": {
-        "value": "{theme2.accent.8}",
+        "value": "#075089",
         "type": "color"
       },
       "9": {
-        "value": "{theme2.accent.9}",
+        "value": "#0A71C0",
         "type": "color"
       },
       "10": {
-        "value": "{theme2.accent.10}",
+        "value": "#085ea0",
         "type": "color"
       },
       "11": {
-        "value": "{theme2.accent.11}",
+        "value": "#074b80",
         "type": "color"
       },
       "12": {
-        "value": "{theme2.accent.12}",
+        "value": "#0966ac",
         "type": "color"
       },
       "13": {
-        "value": "{theme2.accent.13}",
+        "value": "#042d4d",
         "type": "color"
       },
       "contrast-1": {
-        "value": "{theme2.accent.contrast-1}",
+        "value": "#ffffff",
         "type": "color"
       },
       "contrast-2": {
-        "value": "{theme2.accent.contrast-2}",
+        "value": "#f3f8fc",
         "type": "color"
       }
     },
-    "neutral": {
+    "green": {
       "1": {
-        "value": "{theme2.neutral.1}",
+        "value": "#fcfefc",
         "type": "color"
       },
       "2": {
-        "value": "{theme2.neutral.2}",
+        "value": "#ecf6ed",
         "type": "color"
       },
       "3": {
-        "value": "{theme2.neutral.3}",
+        "value": "#cfe9d3",
         "type": "color"
       },
       "4": {
-        "value": "{theme2.neutral.4}",
+        "value": "#b3dcb8",
         "type": "color"
       },
       "5": {
-        "value": "{theme2.neutral.5}",
+        "value": "#95ce9d",
         "type": "color"
       },
       "6": {
-        "value": "{theme2.neutral.6}",
+        "value": "#8bca94",
         "type": "color"
       },
       "7": {
-        "value": "{theme2.neutral.7}",
+        "value": "#189528",
         "type": "color"
       },
       "8": {
-        "value": "{theme2.neutral.8}",
+        "value": "#045a10",
         "type": "color"
       },
       "9": {
-        "value": "{theme2.neutral.9}",
+        "value": "#078D19",
         "type": "color"
       },
       "10": {
-        "value": "{theme2.neutral.10}",
+        "value": "#067615",
         "type": "color"
       },
       "11": {
-        "value": "{theme2.neutral.11}",
+        "value": "#056011",
         "type": "color"
       },
       "12": {
-        "value": "{theme2.neutral.12}",
+        "value": "#067314",
         "type": "color"
       },
       "13": {
-        "value": "{theme2.neutral.13}",
+        "value": "#033409",
         "type": "color"
       },
       "contrast-1": {
-        "value": "{theme2.neutral.contrast-1}",
+        "value": "#000000",
         "type": "color"
       },
       "contrast-2": {
-        "value": "{theme2.neutral.contrast-2}",
+        "value": "#000401",
         "type": "color"
       }
     },
-    "brand1": {
+    "orange": {
       "1": {
-        "value": "{theme2.brand1.1}",
+        "value": "#fffefd",
         "type": "color"
       },
       "2": {
-        "value": "{theme2.brand1.2}",
+        "value": "#fbf1ec",
         "type": "color"
       },
       "3": {
-        "value": "{theme2.brand1.3}",
+        "value": "#f4ddd0",
         "type": "color"
       },
       "4": {
-        "value": "{theme2.brand1.4}",
+        "value": "#eecab7",
         "type": "color"
       },
       "5": {
-        "value": "{theme2.brand1.5}",
+        "value": "#e7b69c",
         "type": "color"
       },
       "6": {
-        "value": "{theme2.brand1.6}",
+        "value": "#e5b094",
         "type": "color"
       },
       "7": {
-        "value": "{theme2.brand1.7}",
+        "value": "#cc632b",
         "type": "color"
       },
       "8": {
-        "value": "{theme2.brand1.8}",
+        "value": "#7e3a15",
         "type": "color"
       },
       "9": {
-        "value": "{theme2.brand1.9}",
+        "value": "#CA5C21",
         "type": "color"
       },
       "10": {
-        "value": "{theme2.brand1.10}",
+        "value": "#a94d1c",
         "type": "color"
       },
       "11": {
-        "value": "{theme2.brand1.11}",
+        "value": "#8a3f17",
         "type": "color"
       },
       "12": {
-        "value": "{theme2.brand1.12}",
+        "value": "#a1491a",
         "type": "color"
       },
       "13": {
-        "value": "{theme2.brand1.13}",
+        "value": "#47210c",
         "type": "color"
       },
       "contrast-1": {
-        "value": "{theme2.brand1.contrast-1}",
+        "value": "#000000",
         "type": "color"
       },
       "contrast-2": {
-        "value": "{theme2.brand1.contrast-2}",
+        "value": "#0d0602",
         "type": "color"
       }
     },
-    "brand2": {
+    "purple": {
       "1": {
-        "value": "{theme2.brand2.1}",
+        "value": "#fefefe",
         "type": "color"
       },
       "2": {
-        "value": "{theme2.brand2.2}",
+        "value": "#f5f2f9",
         "type": "color"
       },
       "3": {
-        "value": "{theme2.brand2.3}",
+        "value": "#e7dfef",
         "type": "color"
       },
       "4": {
-        "value": "{theme2.brand2.4}",
+        "value": "#d9cce6",
         "type": "color"
       },
       "5": {
-        "value": "{theme2.brand2.5}",
+        "value": "#ccbadd",
         "type": "color"
       },
       "6": {
-        "value": "{theme2.brand2.6}",
+        "value": "#c7b4da",
         "type": "color"
       },
       "7": {
-        "value": "{theme2.brand2.7}",
+        "value": "#9572b9",
         "type": "color"
       },
       "8": {
-        "value": "{theme2.brand2.8}",
+        "value": "#663399",
         "type": "color"
       },
       "9": {
-        "value": "{theme2.brand2.9}",
+        "value": "#663299",
         "type": "color"
       },
       "10": {
-        "value": "{theme2.brand2.10}",
+        "value": "#4f2777",
         "type": "color"
       },
       "11": {
-        "value": "{theme2.brand2.11}",
+        "value": "#381b54",
         "type": "color"
       },
       "12": {
-        "value": "{theme2.brand2.12}",
+        "value": "#7b4ea7",
         "type": "color"
       },
       "13": {
-        "value": "{theme2.brand2.13}",
+        "value": "#3b1d59",
         "type": "color"
       },
       "contrast-1": {
-        "value": "{theme2.brand2.contrast-1}",
+        "value": "#ffffff",
         "type": "color"
       },
       "contrast-2": {
-        "value": "{theme2.brand2.contrast-2}",
+        "value": "#eee8f3",
         "type": "color"
       }
     },
-    "brand3": {
+    "red": {
       "1": {
-        "value": "{theme2.brand3.1}",
+        "value": "#fffefe",
         "type": "color"
       },
       "2": {
-        "value": "{theme2.brand3.2}",
+        "value": "#fbf1f1",
         "type": "color"
       },
       "3": {
-        "value": "{theme2.brand3.3}",
+        "value": "#f5dcdc",
         "type": "color"
       },
       "4": {
-        "value": "{theme2.brand3.4}",
+        "value": "#f0c7c7",
         "type": "color"
       },
       "5": {
-        "value": "{theme2.brand3.5}",
+        "value": "#eab3b3",
         "type": "color"
       },
       "6": {
-        "value": "{theme2.brand3.6}",
+        "value": "#e8acac",
         "type": "color"
       },
       "7": {
-        "value": "{theme2.brand3.7}",
+        "value": "#d25b5b",
         "type": "color"
       },
       "8": {
-        "value": "{theme2.brand3.8}",
+        "value": "#9a1616",
         "type": "color"
       },
       "9": {
-        "value": "{theme2.brand3.9}",
+        "value": "#C01B1B",
         "type": "color"
       },
       "10": {
-        "value": "{theme2.brand3.10}",
+        "value": "#9a1616",
         "type": "color"
       },
       "11": {
-        "value": "{theme2.brand3.11}",
+        "value": "#771111",
         "type": "color"
       },
       "12": {
-        "value": "{theme2.brand3.12}",
+        "value": "#c22020",
         "type": "color"
       },
       "13": {
-        "value": "{theme2.brand3.13}",
+        "value": "#5a0d0d",
         "type": "color"
       },
       "contrast-1": {
-        "value": "{theme2.brand3.contrast-1}",
+        "value": "#ffffff",
         "type": "color"
       },
       "contrast-2": {
-        "value": "{theme2.brand3.contrast-2}",
+        "value": "#f6dfdf",
         "type": "color"
       }
-    }
-  },
-  "font": {
-    "family": {
-      "value": "{theme2.main}",
-      "type": "fontFamilies"
-    }
-  },
-  "font-weight": {
-    "medium": {
-      "value": "{theme2.bold}",
-      "type": "fontWeights"
     },
-    "bold": {
-      "value": "{theme2.bold}",
-      "type": "fontWeights"
-    },
-    "regular": {
-      "value": "{theme2.regular}",
-      "type": "fontWeights"
+    "yellow": {
+      "1": {
+        "value": "#fffefc",
+        "type": "color"
+      },
+      "2": {
+        "value": "#fbf2d3",
+        "type": "color"
+      },
+      "3": {
+        "value": "#f5e19b",
+        "type": "color"
+      },
+      "4": {
+        "value": "#efcf5d",
+        "type": "color"
+      },
+      "5": {
+        "value": "#e6bc27",
+        "type": "color"
+      },
+      "6": {
+        "value": "#e0b726",
+        "type": "color"
+      },
+      "7": {
+        "value": "#9a7e1a",
+        "type": "color"
+      },
+      "8": {
+        "value": "#5d4c10",
+        "type": "color"
+      },
+      "9": {
+        "value": "#EABF28",
+        "type": "color"
+      },
+      "10": {
+        "value": "#d0aa24",
+        "type": "color"
+      },
+      "11": {
+        "value": "#b7951f",
+        "type": "color"
+      },
+      "12": {
+        "value": "#776114",
+        "type": "color"
+      },
+      "13": {
+        "value": "#352b09",
+        "type": "color"
+      },
+      "contrast-1": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "contrast-2": {
+        "value": "#382d0a",
+        "type": "color"
+      }
     }
   }
 }
