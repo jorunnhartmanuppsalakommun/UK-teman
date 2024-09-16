@@ -1,16 +1,15 @@
 {
-  "theme-Uppsala": {
+  "theme": {
     "main": {
-      "value": "Source Sans 3",
-      "type": "fontFamilies",
-      "description": "UA font famlily"
+      "value": "IBM Plex Mono",
+      "type": "fontFamilies"
     },
     "medium": {
       "value": "SemiBold",
       "type": "fontWeights"
     },
     "bold": {
-      "value": "Bold",
+      "value": "SemiBold",
       "type": "fontWeights"
     },
     "regular": {

@@ -19,23 +19,23 @@
       "type": "fontSizes"
     },
     "2": {
-      "value": "13",
-      "type": "fontSizes"
-    },
-    "3": {
       "value": "14",
       "type": "fontSizes"
     },
-    "4": {
+    "3": {
       "value": "16",
       "type": "fontSizes"
     },
-    "5": {
+    "4": {
       "value": "18",
       "type": "fontSizes"
     },
-    "6": {
+    "5": {
       "value": "20",
+      "type": "fontSizes"
+    },
+    "6": {
+      "value": "22",
       "type": "fontSizes"
     },
     "7": {
@@ -60,8 +60,7 @@
     },
     "14": {
       "value": "80",
-      "type": "fontSizes",
-      "description": "added for UA Display lg"
+      "type": "fontSizes"
     }
   },
   "letter-spacing": {
