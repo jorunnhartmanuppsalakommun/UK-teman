@@ -2,8 +2,7 @@
   "theme": {
     "main": {
       "value": "Source Sans 3",
-      "type": "fontFamilies",
-      "description": "UA font famlily"
+      "type": "fontFamilies"
     },
     "medium": {
       "value": "SemiBold",

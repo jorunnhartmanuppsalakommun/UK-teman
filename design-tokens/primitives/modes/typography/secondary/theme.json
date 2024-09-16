@@ -1,7 +1,7 @@
 {
   "theme": {
     "main": {
-      "value": "IBM Plex Mono",
+      "value": "Source Sans 3",
       "type": "fontFamilies"
     },
     "medium": {
